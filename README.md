@@ -24,7 +24,7 @@ docker-compose up
 ```
 
 ## TypeScript
-Initially when I created this, it was purely focussed on using ES6 Modules in pure Javascript, but one can one
+Initially when I created this, it was purely focused on using ES6 Modules in pure Javascript, but one can one
 can make use of Typescript too.
 
 The files include `Cat.ts` which is similar to `Dog.js`, but in Typescript format. One can then compile that to `Cat.js` with the following command:
